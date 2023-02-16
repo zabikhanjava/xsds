@@ -11,9 +11,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-
-
 public class BookMain {
 
   private static final String BOOKSTORE_XML = "./bookstore-jaxb.xml";
